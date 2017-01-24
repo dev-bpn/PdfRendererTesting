@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RendererTesting</string>
+    <string name="previous">Prev</string>
+    <string name="next">Next</string>
+    <string name="app_name_with_index">RendererTesting (%1$d/%2$d)</string>
+</resources>
